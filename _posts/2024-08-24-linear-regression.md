@@ -59,3 +59,4 @@ fig.add_scatter(x=df['YearsExperience'], y=df['PredictedSalary'], mode='lines', 
 
 # Show plot in the browser
 fig.show()
+```
