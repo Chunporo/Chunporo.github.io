@@ -9,6 +9,7 @@ Linear regression attempts to model the relationship between a dependent variabl
 \[
 y = \beta_0 + \beta_1x + \epsilon
 \]
+
 - \( y \) is the dependent variable (the outcome we want to predict).
 - \( x \) is the independent variable (the input variable).
 - \( \beta_0 \) is the intercept (the value of \( y \) when \( x \) is 0).
