@@ -1,3 +1,6 @@
+---
+categories: [Machine learning],[Supervised Learning]
+---
 # Linear Regression in Python
 
 Linear regression is one of the most basic and widely used predictive modeling techniques in statistics and machine learning. This blog will walk you through the basics of linear regression, and you'll see how to implement it using Python. The code snippets are ready to be executed in a web browser with the help of Jupyter notebooks or similar environments.
