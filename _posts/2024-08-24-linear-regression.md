@@ -14,7 +14,7 @@ $$y = \beta_0 + \beta_1x + \epsilon$$
 - $ \beta_0 $ is the intercept (the value of $ y $ when $ x $ is 0).
 - $ \beta_1 $ is the slope of the line (how much $ y $ changes for a unit change in $ x $).
 - $ \epsilon $ is the error term (the difference between the observed and predicted values).
-![Gradien Descent](https://global.discourse-cdn.com/dlai/original/3X/b/7/b773c6bcfa1b2afce716e329f08323f262736eb4.jpeg)
+<!-- ![Gradien Descent](https://global.discourse-cdn.com/dlai/original/3X/b/7/b773c6bcfa1b2afce716e329f08323f262736eb4.jpeg) -->
 
 ## Implementing Linear Regression in Python
 
