@@ -7,13 +7,16 @@ Linear regression is one of the most basic and widely used predictive modeling t
 ---
 Linear regression attempts to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data. The simplest form, **Simple Linear Regression**, involves one independent variable:
 
-$$y = \beta_0 + \beta_1x + \epsilon$$
+\[
+y = \beta_0 + \beta_1x + \epsilon
+\]
 
-- $y$ is the dependent variable (the outcome we want to predict).
-- $x$ is the independent variable (the input variable).
-- $\beta_0$ is the intercept (the value of $ y $ when $ x $ is 0).
-- $\beta_1$ is the slope of the line (how much $ y $ changes for a unit change in $ x $).
-- $\epsilon$ is the error term (the difference between the observed and predicted values).
+- \( y \) is the dependent variable (the outcome we want to predict).
+- \( x \) is the independent variable (the input variable).
+- \( \beta_0 \) is the intercept (the value of \( y \) when \( x \) is 0).
+- \( \beta_1 \) is the slope of the line (how much \( y \) changes for a unit change in \( x \)).
+- \( \epsilon \) is the error term (the difference between the observed and predicted values).
+
 ![Gradien Descent](https://global.discourse-cdn.com/dlai/original/3X/b/7/b773c6bcfa1b2afce716e329f08323f262736eb4.jpeg)
 
 ## Implementing Linear Regression in Python
