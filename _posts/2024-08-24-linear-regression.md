@@ -9,9 +9,12 @@ Linear regression is one of the most basic and widely used predictive modeling t
 
 ---
 Linear regression attempts to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data. The simplest form, **Simple Linear Regression**, involves one independent variable:
+{% raw %}
 $$
 y = \beta_0 + \beta_1x + \epsilon
 $$
+{% endraw %}
+
 
 - \( y \) is the dependent variable (the outcome we want to predict).
 - \( x \) is the independent variable (the input variable).
